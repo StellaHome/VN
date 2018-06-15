@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Chào mừng bạn đến với StellaHome
 
-You can use the [editor on GitHub](https://github.com/StellaHome/VN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thành lập năm 2016, Stellahome là đơn vị chuyên về cho thuê và bán chuyển nhượng căn hộ cao cấp quận 4. Nhận thấy được ngày nay, có rất nhiều người gặp khó khăn trong việc tìm kiếm căn hộ cho thuê hoặc bán, Stellahome ra đời nhằm giúp các khách hàng có thể tìm được 1 căn hộ phù hợp với giá thành hợ lý.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bên cạnh đó, nhằm tạo thuận lợi cho cư dân sống tại các dự án như The Tresor, Rivergate, Icon56... Stellahome cung cấp thêm các dịch trọn gói liên quan đến căn hộ như: tư vấn và thiết kế Nội thất, dọn dẹp vệ sinh, sửa chữa hệ thống điện nước...
+
 
 ### Markdown
 
