@@ -7,21 +7,18 @@ Bên cạnh đó, nhằm tạo thuận lợi cho cư dân sống tại các dự
 
 ### Một số căn hộ chung cư chúng tôi cho thuê
 
-Dưới đây là các các căn hộ được Novaland đầu tư tại quận 4
+Dưới đây là các các căn hộ được Novaland đầu tư tại quận 4, thông tin các căn hộ được đăng chi tiết ở website bên cạnh
 
-- Căn hộ RiverGate
-- Căn hộ The Tresor
-- Căn hộ Galaxy 9
+- Căn hộ RiverGate (https://rivergatevn.com)
+- Căn hộ The Tresor (https://thetresorvn.com)
+- Căn hộ Galaxy 9 (https://canhogalaxy9.org)
 - Căn hộ Icon 56
 - Căn hộ SaiGon Royal
 
+Thông tin liên hệ với chúng tôi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Hotline: 0907881877
+- Website: https://stellahome.vn/
+- Email: info@stellahome.vn
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StellaHome/VN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Chúng tôi rất hân hạnh được phục vụ!
