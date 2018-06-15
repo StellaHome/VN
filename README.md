@@ -5,27 +5,16 @@ Thành lập năm 2016, Stellahome là đơn vị chuyên về cho thuê và bá
 Bên cạnh đó, nhằm tạo thuận lợi cho cư dân sống tại các dự án như The Tresor, Rivergate, Icon56... Stellahome cung cấp thêm các dịch trọn gói liên quan đến căn hộ như: tư vấn và thiết kế Nội thất, dọn dẹp vệ sinh, sửa chữa hệ thống điện nước...
 
 
-### Markdown
+### Một số căn hộ chung cư chúng tôi cho thuê
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dưới đây là các các căn hộ được Novaland đầu tư tại quận 4
 
-```markdown
-Syntax highlighted code block
+- Căn hộ RiverGate
+- Căn hộ The Tresor
+- Căn hộ Galaxy 9
+- Căn hộ Icon 56
+- Căn hộ SaiGon Royal
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
