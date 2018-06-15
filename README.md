@@ -4,6 +4,7 @@ Thành lập năm 2016, Stellahome là đơn vị chuyên về cho thuê và bá
 
 Bên cạnh đó, nhằm tạo thuận lợi cho cư dân sống tại các dự án như The Tresor, Rivergate, Icon56... Stellahome cung cấp thêm các dịch trọn gói liên quan đến căn hộ như: tư vấn và thiết kế Nội thất, dọn dẹp vệ sinh, sửa chữa hệ thống điện nước...
 
+<img src="https://i.imgur.com/yIj6vKg.png"/>
 
 ### Một số căn hộ chung cư chúng tôi cho thuê
 
